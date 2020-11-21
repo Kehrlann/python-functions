@@ -1,2 +1,10 @@
-# python-functions
-Functions ... in python !
+# python-iterations
+Iterations ... in Python
+
+## Run tests locally
+
+```
+$ python -m unittest -vv
+```
+
+And use `Ctrl + C` to interrupt if you go into an infinite loop !

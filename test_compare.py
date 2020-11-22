@@ -1,5 +1,5 @@
 import unittest
-from compare import compare_all
+from compare_all import compare_all
 from utils import fact, broken_fact
 from math import factorial
 

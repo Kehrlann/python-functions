@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "distance",
+      "setup": "",
+      "run": "python3 -m unittest test_distance",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "numbers",
+      "setup": "",
+      "run": "python3 -m unittest test_numbers",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "doubler_premier",
+      "setup": "",
+      "run": "python3 -m unittest test_doubler_premier",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "doubler_premier_kwds",
+      "setup": "",
+      "run": "python3 -m unittest test_doubler_premier_kwds",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "compare_all",
+      "setup": "",
+      "run": "python3 -m unittest test_compare_all",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "compare_args",
+      "setup": "",
+      "run": "python3 -m unittest test_compare_args",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
